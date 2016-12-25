@@ -1,0 +1,6 @@
+*/Debug/
+*/x64/Debug/
+*.VC.db
+*.VC.VC.opendb
+*.suo
+x64/Debug/
